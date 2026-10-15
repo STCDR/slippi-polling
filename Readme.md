@@ -1,4 +1,4 @@
-# TL:DR Increase windows controller polling connected via USB from roughly 240 Hz to 1,000 Hz
+# TL:DR Increases controller polling connected via USB from roughly 240 Hz to 1,000 Hz, reaching parity with overclocked GCC adapters
 
 ## Dolphin - A GameCube and Wii Emulator
 
