@@ -1,0 +1,10 @@
+[submodule "Externals/Qt"]
+	path = Externals/Qt
+	url = https://github.com/dolphin-emu/ext-win-qt.git
+	branch = master
+[submodule "Externals/SlippiRustExtensions"]
+	path = Externals/SlippiRustExtensions
+	url = https://github.com/project-slippi/slippi-rust-extensions.git
+[submodule "Externals/corrosion"]
+	path = Externals/corrosion
+	url = https://github.com/corrosion-rs/corrosion
